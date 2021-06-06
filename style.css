@@ -1,0 +1,18 @@
+body {
+    text-align: center; 
+}
+#Apps {
+    background-color: darkorchid;
+    height: 800px;
+    padding-top: 200px;
+}
+#Games {
+    background-color: blue;
+    height: 500px;
+    padding-top: 200px;
+}
+#Chatbots {
+    background-color: aqua;
+    height: 700px;
+    padding-top: 250px; 
+}
